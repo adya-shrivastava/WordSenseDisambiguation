@@ -10,5 +10,5 @@ Format of Train and Test Data:
 where 'classification_label' are the two homographs we are trying to disambiguate.
 
 For example: classification_label can be 
-- bass which means the MUSIC sense 
-- \*bass meaning FISH sense
+- bass meaning the MUSIC sense 
+- \*bass meaning the FISH sense
