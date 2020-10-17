@@ -5,7 +5,7 @@ A simple classifier to disambiguate homographs using Decision Lists - Using Yaro
 Format of Train and Test Data:
 
 
-- <classification_label>:\t10-11 word sentence containing the classification label
+- <classification_label>:\t10-11 word sentence containing the ambigous classification label
 
 where 'classification_label' are the two homographs we are trying to disambiguate.
 
