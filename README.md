@@ -9,4 +9,4 @@ Format of Train and Test Data:
 
 where 'classification_label' are the two homographs we are trying to disambiguate.
 
-For example: bass vs \*bass
+For example: classification_label can be bass which means the MUSIC sense vs \*bass meaning FISH sense
